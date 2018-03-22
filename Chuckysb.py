@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 nadya = LINETCR.LINE()
 #nadya.login(qr=True)
-nadya.login(token='ErEOWRCT0G2gfU1D6yCb.jmbsD6HMXYKdkqcNdlduoW.AqoBzP1WLgqc8/VspcuNNA6LDF0+wQSZHQBqKb4IvWI=')
+nadya.login(token='ErivnQzKvzfzysWd2s8b.+DbyEH2a2sHyIFNvMDh16W.gP19oiy0xA82FrW59KRDWtTqvIRdpRfI8OJW++S6H34=')
 nadya.loginResult()
 print "Nadya-Login Success\n\n=====[Sukses Login]====="
 
@@ -147,7 +147,7 @@ groupMessage ="""
         SelfBot Versi 124V
 ╚═════════════════════════
 """
-tjia="u14f64e139a3817afaabe27d237afb36b"
+tjia="u9f09cfcb17d037e2936b751bd9d40ead"
 
 setMessage ="""
 ╔═════════════════════════
@@ -253,8 +253,8 @@ helpMessage ="""
 KAC=[nadya]
 mid = nadya.getProfile().mid
 Bots=[mid]
-Creator=["u24c05277a866c729032900a70cb0d43b"]
-admin=["u24c05277a866c729032900a70cb0d43b"]
+Creator=["ufdd0587a1d80d9285889f9d599d1f5eb"]
+admin=["ufdd0587a1d80d9285889f9d599d1f5eb"]
 
 contact = nadya.getProfile()
 backup1 = nadya.getProfile()
