@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 nadya = LINETCR.LINE()
 #nadya.login(qr=True)
-nadya.login(token='EpS0tmC0ZTDhKOGiKDmb.fpzoe5O4f6/QVIFsn6/ZAW.l+ZRTs/GX3nkrHE/Y77Huo1aF65/TOARxV8ppihfEOQ=')
+nadya.login(token='ErEOWRCT0G2gfU1D6yCb.jmbsD6HMXYKdkqcNdlduoW.AqoBzP1WLgqc8/VspcuNNA6LDF0+wQSZHQBqKb4IvWI=')
 nadya.loginResult()
 print "Nadya-Login Success\n\n=====[Sukses Login]====="
 
@@ -49,8 +49,8 @@ selfMessage ="""
 ╠➩〘Micdel @〙
 ╠➩〘Miclist〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -69,8 +69,8 @@ botMessage ="""
 ╠➩〘@bye〙
 ╠➩〘Bot on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -110,8 +110,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -143,8 +143,8 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 tjia="u14f64e139a3817afaabe27d237afb36b"
@@ -162,8 +162,8 @@ setMessage ="""
 ╠➩〘Sticker on〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -181,8 +181,8 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -222,8 +222,8 @@ adminMessage ="""
 ╠➩〘Respon3 on/off〙
 ╠➩〘Responkick on/off〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -244,8 +244,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Nadya 💠
-║    〽️ line.me/ti/p/~nad_nad. 〽️
+║     ༄ིৡ❍﻿ᶜʰᵉ+Sepri﻿﻿‮࿐ৡ    
+        SelfBot Versi 124V
 ╚═════════════════════════
 """
 
@@ -253,8 +253,8 @@ helpMessage ="""
 KAC=[nadya]
 mid = nadya.getProfile().mid
 Bots=[mid]
-Creator=["u14f64e139a3817afaabe27d237afb36b"]
-admin=["u14f64e139a3817afaabe27d237afb36b"]
+Creator=["u24c05277a866c729032900a70cb0d43b"]
+admin=["u24c05277a866c729032900a70cb0d43b"]
 
 contact = nadya.getProfile()
 backup1 = nadya.getProfile()
@@ -281,13 +281,13 @@ wait = {
     'copy':{},    
     'likeOn':{},
     'detectMention':False,
-    'detectMention2':True,
-    'detectMention3':False,
+    'detectMention2':False,
+    'detectMention3':True,
     'kickMention':False,  
     'sticker':False,  
     'timeline':True,
     "Timeline":True,
-    "comment":"Bot Auto Like ©By : Nadya\nContact Me : 👉 line.me/ti/p/~nad_nad.",    
+    "comment":"Bot Auto Like ©By : Nadya\nContact Me : 👉 line.me/ti/p/~sepriche.",    
     "commentOn":True,
     "commentBlack":{},
     "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
@@ -296,7 +296,7 @@ wait = {
     "dblacklist":False,
     "Qr":False,
     "Contact":False,
-    "Sambutan":False,
+    "Sambutan":True,
     "inviteprotect":False,    
     "alwaysRead":False,    
     "Sider":{},
