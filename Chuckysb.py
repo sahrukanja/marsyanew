@@ -504,15 +504,15 @@ def bot(op):
                                 if " " in Name:
                                     nick = Name.split(' ')
                                     if len(nick) == 2:
-                                        nadya.sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nNgintip Aja Niih. . .\nChat Kek Idiih (-__-)   ")
+                                        nadya.sendText(op.param1, "ᴛᴇʀᴄʏᴅᴜᴋ ᴅɪᴀ " + "☞ " + Name + " ☜" + "\nᴍᴀsᴜᴋ ᴋᴀᴋᴀ. . .\nᴋᴀʟᴀᴜ sᴜᴋᴀ ɴɢɪɴᴛɪᴘ, ɴᴛᴀʀ ʙɪɴᴛɪᴛᴀɴ   ")
                                         time.sleep(0.2)
                                         summon(op.param1,[op.param2])
                                     else:
-                                        nadya.sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nBetah Banget Jadi Penonton. . .\nChat Napa (-__-)   ")
+                                        nadya.sendText(op.param1, "ᴛᴇʀᴄʏᴅᴜᴋ ᴅɪᴀ " + "☞ " + Name + " ☜" + "\nᴍᴀsᴜᴋ ᴋᴀᴋᴀ. . .\nᴋᴀʟᴀᴜ sᴜᴋᴀ ɴɢɪɴᴛɪᴘ, ɴᴛᴀʀ ʙɪɴᴛɪᴛᴀɴ   ")
                                         time.sleep(0.2)
                                         summon(op.param1,[op.param2])
                                 else:
-                                    nadya.sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nNgapain Kak Ngintip Aja???\nSini Gabung Chat...   ")
+                                    nadya.sendText(op.param1, "ᴛᴇʀᴄʏᴅᴜᴋ ᴅɪᴀ " + "☞ " + Name + " ☜" + "\nᴍᴀsᴜᴋ ᴋᴀᴋᴀ. . .\nᴋᴀʟᴀᴜ sᴜᴋᴀ ɴɢɪɴᴛɪᴘ, ɴᴛᴀʀ ʙɪɴᴛɪᴛᴀɴ   ")
                                     time.sleep(0.2)
                                     summon(op.param1,[op.param2])
                         else:
