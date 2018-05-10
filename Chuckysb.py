@@ -821,8 +821,8 @@ def bot(op):
                  if wait["detectMention3"] == True:          
                     contact = nadya.getContact(msg.from_)
                     cName = contact.displayName
-                    balas = ["ᴄɪᴇ.. ᴄɪᴇ.. " + cName + ", ᴛᴇʀɴʏᴀᴛᴀ ᴍᴇʀᴛᴜᴀ ᴘᴀᴋ ᴊᴏᴋᴏ.ᴡ ʏᴀɴɢ ᴛᴀɢ ɢᴜᴇ"]
-                    balas1 = "ᴄɪᴇ ғᴏᴛᴏɴʏᴀ 😂"
+                    balas = ["ɪʏᴀ ᴋᴋ,. " + cName + ", ʙᴇʀsᴀʙᴀʀʟᴀʜ ᴀᴋᴜ ᴀᴋᴀɴ ᴅᴀᴛᴀɴɢ ᴘᴀᴅᴀᴍᴜ ᴛᴜɴɢɢᴜ ʏᴀ...."]
+                    balas1 = "ᴛᴀᴘɪ ᴅᴀʟᴀᴍ ᴍɪᴍᴘɪ 😂"
                     ret_ = random.choice(balas)
                     image = "http://dl.profile.line-cdn.net/" + contact.pictureStatus
                     name = re.findall(r'@(\w+)', msg.text)
@@ -836,9 +836,9 @@ def bot(op):
                                   msg.contentType = 7   
                                   msg.text = None
                                   msg.contentMetadata = {
-                                                       "STKID": "11764508",
-                                                       "STKPKGID": "6641",
-                                                       "STKVER": "1" }
+                                                       "STKID": "10",
+                                                       "STKPKGID": "1",
+                                                       "STKVER": "100" }
                                   nadya.sendMessage(msg)                                
                                   break  
                                   
